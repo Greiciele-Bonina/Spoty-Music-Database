@@ -1,6 +1,6 @@
 # Spoty Music Database
 
-## Sobre o projeto
+## Sobre o projeto 
 
 Este projeto foi desenvolvido como trabalho de conclusão do curso de Banco de Dados.
 

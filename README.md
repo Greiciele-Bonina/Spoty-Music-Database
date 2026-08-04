@@ -10,11 +10,11 @@ O objetivo foi aplicar os conhecimentos adquiridos ao longo do curso por meio da
 
 - Modelo conceitual
 
-![Modelo Conceitual](Modelo Conceitual.png)
+![Modelo Conceitual](Modelo_Conceitual.png)
   
 - Modelo lógico
   
-![Modelo Lógico](Modelo Lógico.png)
+![Modelo Lógico](Modelo_Lógico.png)
   
 - Criação das tabelas
 - Procedures

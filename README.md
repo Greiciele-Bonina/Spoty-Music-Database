@@ -1,4 +1,4 @@
-# Spoty Music
+# Spoty Music Database
 
 ## Sobre o projeto
 

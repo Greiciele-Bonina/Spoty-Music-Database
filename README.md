@@ -9,9 +9,11 @@ O objetivo foi aplicar os conhecimentos adquiridos ao longo do curso por meio da
 ## Estrutura do projeto
 
 - Modelo conceitual
+  
   ![Modelo Conceitual](Modelo Conceitual.png)
   
 - Modelo lógico
+  
   ![Modelo Lógico](Modelo Lógico.png)
   
 - Criação das tabelas
